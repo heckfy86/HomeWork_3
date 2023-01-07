@@ -1,6 +1,6 @@
 public class Test {
 
     void Sout (){
-        System.out.println("Test_1");
+        System.out.println("Test_qaguru");
     }
 }
